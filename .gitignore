@@ -1,4 +1,2 @@
-amazon/Electronics.json
-amazon/Electronics_sample_300k.csv
-Electronics.json
-Electronics_sample_300k.csv
+*.csv
+*.json
