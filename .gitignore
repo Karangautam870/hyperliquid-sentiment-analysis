@@ -1,0 +1,30 @@
+# Ignore all folders by default
+*/
+
+# Only track amazon folder
+!.git
+!.gitignore
+!amazon/
+!README.md
+!requirements.txt
+
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
+*.log
