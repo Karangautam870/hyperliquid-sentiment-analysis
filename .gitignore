@@ -1,10 +1,10 @@
 # Ignore all folders by default
 */
 
-# Only track amazon folder
+# Only track primeTrade folder
 !.git
 !.gitignore
-!amazon/
+!primeTrade/
 !README.md
 !requirements.txt
 
@@ -28,3 +28,5 @@ __pycache__/
 .DS_Store
 .env
 *.log
+*.txt
+*.tex
